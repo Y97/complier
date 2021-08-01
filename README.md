@@ -1,2 +1,2 @@
-# blog
+Blog
 Save some files.
