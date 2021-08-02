@@ -1,0 +1,8 @@
+int a=0,b=1;
+int36 c = 5Tu;
+for(int36 i=0;i<5T;i++)
+{
+    z=z+1;
+}
+#
+
